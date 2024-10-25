@@ -48,6 +48,7 @@ export default {
   </div>
 
   <div class="pokemon-container">
+    <h1 class="text-3xl font-bold mb-4 text-center">¿Quien es ese Pókemon?</h1>
     <h2>Pokémon descubiertos: <span class="contador">{{ contadorDescubiertos }}</span></h2>
   </div>
     <div class="pokemon-grid">
